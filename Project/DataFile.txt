@@ -1,0 +1,62 @@
+
+***ACCOMODATION 1***
+--------------------------------------
+ID Number: 1
+Owner Name: Jack S
+Year: 1992
+Monthly Rental: 950.50
+E-mail address: jack@gmail.com
+Type of Rental: Bungalow
+Number of bedrooms: 3
+Pets allowed: Yes
+Average duration of the stay: One day
+--------------------------------------
+
+***ACCOMODATION 2***
+--------------------------------------
+ID Number: 2
+Owner Name: Ivan B
+Year: 2020
+Monthly Rental: 2200.00
+E-mail address: ivan@gmail.com
+Type of Rental: Appartment
+Number of bedrooms: 1
+Pets allowed: Yes
+Average duration of the stay: One day
+--------------------------------------
+
+***ACCOMODATION 3***
+--------------------------------------
+ID Number: 3
+Owner Name: David V
+Year: 2001
+Monthly Rental: 1200.00
+E-mail address: david@gmail.com
+Type of Rental: Appartment
+Number of bedrooms: 2
+Pets allowed: Yes
+Average duration of the stay: Less than 7 days
+--------------------------------------
+
+***ACCOMODATION 4***
+--------------------------------------
+ID Number: 4
+Owner Name: John S
+Year: 2023
+Monthly Rental: 2750.50
+E-mail address: john@hotmail.com
+Type of Rental: Appartment
+Number of bedrooms: 2
+Pets allowed: Yes
+Average duration of the stay: Less than 7 days
+--------------------------------------
+--------------------------------------
+
+***GENERATED STATISTICS***
+--------------------------------------
+Total number of accomodations: 4.00
+Single: 0.00%
+Apartment: 75.00%
+Bungalow: 25.00%
+Two Story: 0.00%
+--------------------------------------
